@@ -1,0 +1,14 @@
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.AssemblyReference.cache
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.SuggestedBindingRedirects.cache
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\Newtonsoft.Json.dll
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\Newtonsoft.Json.xml
+X:\CodeWarsTasks\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CopyComplete
